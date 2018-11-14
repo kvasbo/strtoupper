@@ -1,6 +1,6 @@
 {
   "name": "strtoupper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wraps the native javascript toUpperScript function to make life easier for old PHP developers",
   "main": "index.js",
   "scripts": {
