@@ -1,0 +1,23 @@
+{
+  "name": "strtoupper",
+  "version": "1.0.0",
+  "description": "Wraps the native javascript toUpperScript function to make life easier for old PHP developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvasbo/strtoupper.git"
+  },
+  "keywords": [
+    "php",
+    "case"
+  ],
+  "author": "Audun Kvasbø",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kvasbo/strtoupper/issues"
+  },
+  "homepage": "https://github.com/kvasbo/strtoupper#readme"
+}
